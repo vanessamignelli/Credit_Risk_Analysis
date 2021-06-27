@@ -7,47 +7,47 @@ The purpose of this analysis was to create supervised machine learning models th
 ### RandomOverSampler
 -
 
-![brfc_classification_report.png](https://github.com/vanessamignelli/Credit_Risk_Analysis/blob/main/resources/brfc_classification_report.png)
+![ros_balance_accuracy.png](https://github.com/vanessamignelli/Credit_Risk_Analysis/blob/main/resources/ros_balance_accuracyt.png)
 
 -
 -
 
-![brfc_classification_report.png](https://github.com/vanessamignelli/Credit_Risk_Analysis/blob/main/resources/brfc_classification_report.png)
+![ros_classification_report.png](https://github.com/vanessamignelli/Credit_Risk_Analysis/blob/main/resources/ros_classification_report.png)
 
 ### SMOTE
 -
 
-![brfc_classification_report.png](https://github.com/vanessamignelli/Credit_Risk_Analysis/blob/main/resources/brfc_classification_report.png)
+![smote_balance_accuracyt.png](https://github.com/vanessamignelli/Credit_Risk_Analysis/blob/main/resources/smote_balance_accuracy.png)
 
 -
 -
 
-![brfc_classification_report.png](https://github.com/vanessamignelli/Credit_Risk_Analysis/blob/main/resources/brfc_classification_report.png)
+![smote_classification_report.png](https://github.com/vanessamignelli/Credit_Risk_Analysis/blob/main/resources/smote_classification_report.png)
 
 ### ClusterCentroids
 -
 
-![brfc_classification_report.png](https://github.com/vanessamignelli/Credit_Risk_Analysis/blob/main/resources/brfc_classification_report.png)
+![cc_balance_accuracy.png](https://github.com/vanessamignelli/Credit_Risk_Analysis/blob/main/resources/cc_cbalance_accuracy.png)
 
 -
 -
 
-![brfc_classification_report.png](https://github.com/vanessamignelli/Credit_Risk_Analysis/blob/main/resources/brfc_classification_report.png)
+![cc_classification_report.png](https://github.com/vanessamignelli/Credit_Risk_Analysis/blob/main/resources/cc_classification_report.png)
 
 ### SMOTEEN
 -
 
-![brfc_classification_report.png](https://github.com/vanessamignelli/Credit_Risk_Analysis/blob/main/resources/brfc_classification_report.png)
+![smoteen_balance_accuracy.png](https://github.com/vanessamignelli/Credit_Risk_Analysis/blob/main/resources/smoteen_balance_accuracy.png)
 
 -
 -
 
-![brfc_classification_report.png](https://github.com/vanessamignelli/Credit_Risk_Analysis/blob/main/resources/brfc_classification_report.png)
+![smoteen_classification_report.png](https://github.com/vanessamignelli/Credit_Risk_Analysis/blob/main/resources/smoteen_classification_report.png)
 
 ### BalancedRandomForestClassifier
 -
 
-![brfc_classification_report.png](https://github.com/vanessamignelli/Credit_Risk_Analysis/blob/main/resources/brfc_classification_report.png)
+![brfc_balance_accuracy.png](https://github.com/vanessamignelli/Credit_Risk_Analysis/blob/main/resources/brfc_balance_accuracy.png)
 
 -
 -
@@ -57,7 +57,7 @@ The purpose of this analysis was to create supervised machine learning models th
 ### EasyEnsembleClassifier
 -
 
-![eec_classification_report.png](https://github.com/vanessamignelli/Credit_Risk_Analysis/blob/main/resources/eec_balance_accuracy.png)
+![eec_balance_accuracy.png](https://github.com/vanessamignelli/Credit_Risk_Analysis/blob/main/resources/eec_balance_accuracy.png)
 
 -
 -
