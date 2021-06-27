@@ -6,32 +6,62 @@ The purpose of this analysis was to create supervised machine learning models th
 ## Results
 ### RandomOverSampler
 -
+
+![brfc_classification_report.png](https://github.com/vanessamignelli/Credit_Risk_Analysis/blob/main/resources/brfc_classification_report.png)
+
 -
 -
+
+![brfc_classification_report.png](https://github.com/vanessamignelli/Credit_Risk_Analysis/blob/main/resources/brfc_classification_report.png)
 
 ### SMOTE
 -
+
+![brfc_classification_report.png](https://github.com/vanessamignelli/Credit_Risk_Analysis/blob/main/resources/brfc_classification_report.png)
+
 -
 -
+
+![brfc_classification_report.png](https://github.com/vanessamignelli/Credit_Risk_Analysis/blob/main/resources/brfc_classification_report.png)
 
 ### ClusterCentroids
 -
+
+![brfc_classification_report.png](https://github.com/vanessamignelli/Credit_Risk_Analysis/blob/main/resources/brfc_classification_report.png)
+
 -
 -
+
+![brfc_classification_report.png](https://github.com/vanessamignelli/Credit_Risk_Analysis/blob/main/resources/brfc_classification_report.png)
 
 ### SMOTEEN
 -
+
+![brfc_classification_report.png](https://github.com/vanessamignelli/Credit_Risk_Analysis/blob/main/resources/brfc_classification_report.png)
+
 -
 -
+
+![brfc_classification_report.png](https://github.com/vanessamignelli/Credit_Risk_Analysis/blob/main/resources/brfc_classification_report.png)
 
 ### BalancedRandomForestClassifier
 -
+
+![brfc_classification_report.png](https://github.com/vanessamignelli/Credit_Risk_Analysis/blob/main/resources/brfc_classification_report.png)
+
 -
 -
 
+![brfc_classification_report.png](https://github.com/vanessamignelli/Credit_Risk_Analysis/blob/main/resources/brfc_classification_report.png)
+
 ### EasyEnsembleClassifier
 -
+
+![eec_classification_report.png](https://github.com/vanessamignelli/Credit_Risk_Analysis/blob/main/resources/eec_balance_accuracy.png)
+
 -
 -
+
+![eec_classification_report.png](https://github.com/vanessamignelli/Credit_Risk_Analysis/blob/main/resources/eec_classification_report.png)
 
 ## Summary
