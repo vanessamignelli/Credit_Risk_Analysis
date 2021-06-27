@@ -9,8 +9,8 @@ The purpose of this analysis was to create supervised machine learning models th
 
 ![ros_balanced_accuracy.png](https://github.com/vanessamignelli/Credit_Risk_Analysis/blob/main/resources/ros_balanced_accuracy.png)
 
--
--
+- The precision score for this model was 1% for high risk and 100% for low risk, meaning it was only 1% likely that a predicted high risk loan and 100% accurate at predicting true low risk loans
+- 
 
 ![ros_classification_report.png](https://github.com/vanessamignelli/Credit_Risk_Analysis/blob/main/resources/ros_classification_report.png)
 
