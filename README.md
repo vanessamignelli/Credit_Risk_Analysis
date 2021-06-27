@@ -65,3 +65,5 @@ The purpose of this analysis was to create supervised machine learning models th
 ![eec_classification_report.png](https://github.com/vanessamignelli/Credit_Risk_Analysis/blob/main/resources/eec_classification_report.png)
 
 ## Summary
+
+Overall, across all the models the precision for detecting high risk loans was low, which would indicate a high number of false positives. Additionally, when looking at the accuracy scores across the RandomOverSampler, SMOTE, ClusterCentroids and SMOTEEN it can be concluded that these models were only reasonably accurate, with scores ranging from 54% - 66%. When examing the the BalancedForestClassifier and EasyEnsembleClassifer, the EasyEnsembleCalssifier outperforms in all areas. Therefore the recommendation would be to use this model to predict credit scores.
