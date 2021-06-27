@@ -5,7 +5,7 @@ The purpose of this analysis was to create supervised machine learning models th
 
 ## Results
 ### RandomOverSampler
--
+- The balanced accuracy score for this model was 0.647, indicating that it was correctly able to predict loan risk 64.7% of the time
 
 ![ros_balanced_accuracy.png](https://github.com/vanessamignelli/Credit_Risk_Analysis/blob/main/resources/ros_balanced_accuracy.png)
 
@@ -15,7 +15,7 @@ The purpose of this analysis was to create supervised machine learning models th
 ![ros_classification_report.png](https://github.com/vanessamignelli/Credit_Risk_Analysis/blob/main/resources/ros_classification_report.png)
 
 ### SMOTE
--
+- The balanced accuracy score for this model was 0.662, indicating that it was correctly able to predict loan risk 66.2% of the time
 
 ![smote_balanced_accuracy.png](https://github.com/vanessamignelli/Credit_Risk_Analysis/blob/main/resources/smote_balanced_accuracy.png)
 
@@ -25,7 +25,7 @@ The purpose of this analysis was to create supervised machine learning models th
 ![smote_classification_report.png](https://github.com/vanessamignelli/Credit_Risk_Analysis/blob/main/resources/smote_classification_report.png)
 
 ### ClusterCentroids
--
+- The balanced accuracy score for this model was 0.545, indicating that it was correctly able to predict loan risk 54.5% of the time
 
 ![cc_balanced_accuracy.png](https://github.com/vanessamignelli/Credit_Risk_Analysis/blob/main/resources/cc_balanced_accuracy.png)
 
@@ -35,7 +35,7 @@ The purpose of this analysis was to create supervised machine learning models th
 ![cc_classification_report.png](https://github.com/vanessamignelli/Credit_Risk_Analysis/blob/main/resources/cc_classification_report.png)
 
 ### SMOTEEN
--
+- The balanced accuracy score for this model was 0.647, indicating that it was correctly able to predict loan risk 67.8% of the time
 
 ![smoteen_balanced_accuracy.png](https://github.com/vanessamignelli/Credit_Risk_Analysis/blob/main/resources/smoteen_balanced_accuracy.png)
 
@@ -45,7 +45,7 @@ The purpose of this analysis was to create supervised machine learning models th
 ![smoteen_classification_report.png](https://github.com/vanessamignelli/Credit_Risk_Analysis/blob/main/resources/smoteen_classification_report.png)
 
 ### BalancedRandomForestClassifier
--
+- The balanced accuracy score for this model was 0.789, indicating that it was correctly able to predict loan risk 78.9% of the time
 
 ![brfc_balanced_accuracy.png](https://github.com/vanessamignelli/Credit_Risk_Analysis/blob/main/resources/brfc_balanced_accuracy.png)
 
@@ -55,7 +55,7 @@ The purpose of this analysis was to create supervised machine learning models th
 ![brfc_classification_report.png](https://github.com/vanessamignelli/Credit_Risk_Analysis/blob/main/resources/brfc_classification_report.png)
 
 ### EasyEnsembleClassifier
--
+- The balanced accuracy score for this model was 0.932, indicating that it was correctly able to predict loan risk 93.2% of the time
 
 ![eec_balanced_accuracy.png](https://github.com/vanessamignelli/Credit_Risk_Analysis/blob/main/resources/eec_balanced_accuracy.png)
 
