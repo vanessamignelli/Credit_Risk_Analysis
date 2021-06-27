@@ -7,7 +7,7 @@ The purpose of this analysis was to create supervised machine learning models th
 ### RandomOverSampler
 -
 
-![ros_balance_accuracy.png](https://github.com/vanessamignelli/Credit_Risk_Analysis/blob/main/resources/ros_balance_accuracyt.png)
+![ros_balanced_accuracy.png](https://github.com/vanessamignelli/Credit_Risk_Analysis/blob/main/resources/ros_balanced_accuracyt.png)
 
 -
 -
@@ -17,7 +17,7 @@ The purpose of this analysis was to create supervised machine learning models th
 ### SMOTE
 -
 
-![smote_balance_accuracyt.png](https://github.com/vanessamignelli/Credit_Risk_Analysis/blob/main/resources/smote_balance_accuracy.png)
+![smote_balanced_accuracy.png](https://github.com/vanessamignelli/Credit_Risk_Analysis/blob/main/resources/smote_balanced_accuracy.png)
 
 -
 -
@@ -27,7 +27,7 @@ The purpose of this analysis was to create supervised machine learning models th
 ### ClusterCentroids
 -
 
-![cc_balance_accuracy.png](https://github.com/vanessamignelli/Credit_Risk_Analysis/blob/main/resources/cc_cbalance_accuracy.png)
+![cc_balanced_accuracy.png](https://github.com/vanessamignelli/Credit_Risk_Analysis/blob/main/resources/cc_balanced_accuracy.png)
 
 -
 -
@@ -37,7 +37,7 @@ The purpose of this analysis was to create supervised machine learning models th
 ### SMOTEEN
 -
 
-![smoteen_balance_accuracy.png](https://github.com/vanessamignelli/Credit_Risk_Analysis/blob/main/resources/smoteen_balance_accuracy.png)
+![smoteen_balanced_accuracy.png](https://github.com/vanessamignelli/Credit_Risk_Analysis/blob/main/resources/smoteen_balanced_accuracy.png)
 
 -
 -
@@ -47,7 +47,7 @@ The purpose of this analysis was to create supervised machine learning models th
 ### BalancedRandomForestClassifier
 -
 
-![brfc_balance_accuracy.png](https://github.com/vanessamignelli/Credit_Risk_Analysis/blob/main/resources/brfc_balance_accuracy.png)
+![brfc_balanced_accuracy.png](https://github.com/vanessamignelli/Credit_Risk_Analysis/blob/main/resources/brfc_balanced_accuracy.png)
 
 -
 -
@@ -57,7 +57,7 @@ The purpose of this analysis was to create supervised machine learning models th
 ### EasyEnsembleClassifier
 -
 
-![eec_balance_accuracy.png](https://github.com/vanessamignelli/Credit_Risk_Analysis/blob/main/resources/eec_balance_accuracy.png)
+![eec_balanced_accuracy.png](https://github.com/vanessamignelli/Credit_Risk_Analysis/blob/main/resources/eec_balanced_accuracy.png)
 
 -
 -
