@@ -7,7 +7,7 @@ The purpose of this analysis was to create supervised machine learning models th
 ### RandomOverSampler
 -
 
-![ros_balanced_accuracy.png](https://github.com/vanessamignelli/Credit_Risk_Analysis/blob/main/resources/ros_balanced_accuracyt.png)
+![ros_balanced_accuracy.png](https://github.com/vanessamignelli/Credit_Risk_Analysis/blob/main/resources/ros_balanced_accuracy.png)
 
 -
 -
